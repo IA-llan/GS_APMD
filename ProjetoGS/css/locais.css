@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+ul {
+    padding: 0px!important;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color: #232323;
+    height: 60px;
+}
+
+main, .content {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.logo {
+    padding: 15px;
+    width: 65%;
+    float: left;
+}
+
+.logo-principal {
+    height: 40px;
+}
+
+.redes-sociais ul li {
+    margin-left: 11px;
+    display: inline-block;
+}
+
+.redes-sociais {
+    width: 25%;
+    float: right;
+}
+
+.header-2 {
+    background-color: #fff;
+    width: 980px;
+    margin: 0 auto;
+    padding: .45rem;
+}
+
+.menu-urls {
+    border-bottom: 3px solid #efefef;
+    height: 70px;
+}
+
+.menu ul li {
+    display: inline-block;
+    color: #8b8b8b;
+    height: 3rem;
+}
+
+.menu ul li:hover {
+    border-bottom: 3px solid red;
+}
+
+.menu ul li a{
+    display: inline-block;
+    color: #8b8b8b;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+
+.menu ul li a:hover {
+    color: red;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+}
+
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+/* ================================ FIM HEADER =====================================*/
+
+.texto-apresentacao {
+    color: #8b8b8b;
+    text-align: center;
+}
+
+.texto-apresentacao h2 {
+    color: #363636;
+}
+
+.texto-apresentacao b {
+    color: 	#4F4F4F;
+}
+
+.texto-apresentacao p{
+    color: #808080;
+}
+
+.menu-luagres {
+    width: 100%;
+    margin-left: 50%;
+}
+
+.bloco-info {
+    margin-left: 11.5rem;
+    margin-bottom: 2rem;
+    border-radius: .2rem;
+    width: auto;
+    float: left;
+    position: relative;
+    background-color:#ffffff;
+}
+
+
+/* ================================= INICIO FOOTER ================================ */
+.footer {
+    background-color: #232323;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.col-footer {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: .5rem;
+    width: 15rem;
+    float: left;
+    margin-left: 20%;
+    position: relative;
+}
+
+.footer h3 {
+    font-size: 1.4rem;
+    text-align: center;
+    color: #fff;
+}
+
+.col-footer p{
+    font-size: .9rem;
+    color: #fff;
+    text-align: center;
+}
+
